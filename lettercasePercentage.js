@@ -37,7 +37,7 @@ neither are '123' plus whitespace ' ' so 4/10 is 40%
 
 Data Structures:
 Split all strings into an array of characters.
-- The values are returned with two decimal places so Floats are included.
+- The values are returned with two decimal places so rounded numbers are included.
 
 Algorithm:
 
